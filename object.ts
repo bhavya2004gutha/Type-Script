@@ -9,3 +9,6 @@ let car: Car = {
   year: 2023,
   isElectric: true
 };
+
+console.log(car);
+
