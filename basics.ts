@@ -47,3 +47,13 @@ function printId(id: number | string) {
   console.log("Your ID is: " + id);
 }
 
+printId(101);
+
+function printhello(): void{
+  console.log("Hello");
+}
+printhello();
+
+
+
+
